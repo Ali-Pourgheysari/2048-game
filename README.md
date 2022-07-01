@@ -28,5 +28,19 @@ You can see:
     <img src=".\screenshot\5 game screen.png" width="500" higth="500" >
 </p>
 
-:warning:undo will only work for the last move.
+:warning:Undo will only work for the last move.
+:warning:New game will start a new game with the same game mode and sets the score to 0.
 
+Once you want to finish the game you are asked if you want to save your score.
+
+<p align="center">
+    <img src=".\screenshot\6 leave the game with options.png" width="500" higth="500" >
+</p>
+
+If you save your game will be saved in the file called "data.txt". and after restarting the game you can load your saved game.
+as soon as you quit the game without saving it or you finish the game (can win or lose) your score will be saved in the file called "data2.txt" and after reopening the game you can see the score board.
+
+<p align="center">
+    <img src=".\screenshot\7 score board.png" width="500" higth="500" >
+    <img src=".\screenshot\8 files.png" width="500" higth="500" >
+</p>
