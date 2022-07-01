@@ -28,9 +28,12 @@ You can see:
     <img src=".\screenshot\5 game screen.png" width="500" higth="500" >
 </p>
 
+<p>
 :warning:Undo will only work for the last move.
+</p>
+<p>
 :warning:New game will start a new game with the same game mode and sets the score to 0.
-
+</p>
 Once you want to finish the game you are asked if you want to save your score.
 
 <p align="center">
